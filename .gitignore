@@ -1,0 +1,12 @@
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2019
+.vscode/
